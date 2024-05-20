@@ -7,8 +7,8 @@ public class ATM {
     }
     public void deposit(double i  ) 
     {
-          int j;
-        if (int j > 0) // 
+        int j;
+        if (j > 0) // 
         {
             i += j;
             System.out.println("Deposit successful. Current balance: " + i );
